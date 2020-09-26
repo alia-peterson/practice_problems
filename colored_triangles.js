@@ -11,7 +11,6 @@ R R G B R G B B
 
 let input = 'RRGBRGBB'
 let inputAsArray = Array.from(input)
-let startingRow = ''
 let currentRow = inputAsArray
 let possibleColors = ['R','G','B']
 let nextLetter = ''
